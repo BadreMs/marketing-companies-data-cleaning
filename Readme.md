@@ -13,4 +13,5 @@ Using Python and pandas, the pipeline focuses on improving data reliability thro
 
 A data quality layer is implemented to track before/after metrics, log applied rules, and generate a structured data quality report, ensuring transparency and reproducibility of the cleaning process.
 
-The project is designed to reflect real-world data engineering practices and is suitable as a portfolio example for junior data engineer roles.
+
+
